@@ -17,7 +17,8 @@ Data and Data Prepareing Tools
 The Datasets we used:
   * [BP4D](http://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html)
   * [DISFA](http://mohammadmahoor.com/disfa-contact-form/)
-Make sure that you download the  pre-trained [mae-face]([https://download.pytorch.org/models/resnet50-19c8e357.pth](https://github.com/facebookresearch/mae?tab=readme-ov-file)) model to `checkpoints/` 
+  * 
+Make sure that you download the  pre-trained [mae-face]([(https://github.com/facebookresearch/mae?tab=readme-ov-file)]) model to `checkpoints/` 
 
 Train and Test
 
